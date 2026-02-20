@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\bin\Debug\3.CondicionalesDobles.exe.config
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\bin\Debug\3.CondicionalesDobles.exe
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\bin\Debug\3.CondicionalesDobles.pdb
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\obj\Debug\3.CondicionalesDobles.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\obj\Debug\3.CondicionalesDobles.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\obj\Debug\3.CondicionalesDobles.exe
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\3.CondicionalesDobles\obj\Debug\3.CondicionalesDobles.pdb
