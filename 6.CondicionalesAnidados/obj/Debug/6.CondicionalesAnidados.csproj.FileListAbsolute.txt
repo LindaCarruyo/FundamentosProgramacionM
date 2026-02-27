@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\bin\Debug\6.CondicionalesAnidados.exe.config
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\bin\Debug\6.CondicionalesAnidados.exe
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\bin\Debug\6.CondicionalesAnidados.pdb
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.exe
+C:\Users\ESTUDIANTES\LindaCarruyo\FundamentosProgramacionM\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.pdb
