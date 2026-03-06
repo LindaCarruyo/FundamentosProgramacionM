@@ -1,0 +1,14 @@
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.exe.config
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.exe
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.pdb
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.csproj.AssemblyReference.cache
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.exe
+C:\LindaGrajales\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.pdb
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.exe.config
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.exe
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.pdb
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.exe
+C:\Users\User\FundamentosProgramacionM\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.pdb
