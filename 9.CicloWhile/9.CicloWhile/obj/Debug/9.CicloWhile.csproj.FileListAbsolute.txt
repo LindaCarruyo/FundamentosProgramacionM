@@ -1,0 +1,7 @@
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe.config
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.pdb
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.AssemblyReference.cache
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.CoreCompileInputs.cache
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.exe
+C:\LindaGrajales\FundamentosProgramacionM\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.pdb
