@@ -1,0 +1,7 @@
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\bin\Debug\10.CicloWhile.exe.config
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\bin\Debug\10.CicloWhile.exe
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\bin\Debug\10.CicloWhile.pdb
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\obj\Debug\10.CicloWhile.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\obj\Debug\10.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\obj\Debug\10.CicloWhile.exe
+C:\Users\User\FundamentosProgramacionM\10.CicloWhile\obj\Debug\10.CicloWhile.pdb
