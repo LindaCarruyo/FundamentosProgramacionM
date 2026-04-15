@@ -1,0 +1,7 @@
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe.config
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\bin\Debug\TallerVectores.pdb
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.AssemblyReference.cache
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.CoreCompileInputs.cache
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\obj\Debug\TallerVectores.exe
+C:\LindaGrajales\FundamentosProgramacionM\TallerVectores\TallerVectores\obj\Debug\TallerVectores.pdb
