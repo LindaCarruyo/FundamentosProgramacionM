@@ -1,0 +1,7 @@
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\bin\Debug\14.CicloDoWhile2.exe.config
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\bin\Debug\14.CicloDoWhile2.exe
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\bin\Debug\14.CicloDoWhile2.pdb
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\obj\Debug\14.CicloDoWhile2.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\obj\Debug\14.CicloDoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\obj\Debug\14.CicloDoWhile2.exe
+C:\Users\User\FundamentosProgramacionM\14.CicloDoWhile2\obj\Debug\14.CicloDoWhile2.pdb

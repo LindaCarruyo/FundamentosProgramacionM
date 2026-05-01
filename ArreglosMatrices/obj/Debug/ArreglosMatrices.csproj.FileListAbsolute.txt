@@ -1,0 +1,7 @@
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\bin\Debug\ArreglosMatrices.exe.config
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\bin\Debug\ArreglosMatrices.exe
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\bin\Debug\ArreglosMatrices.pdb
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\obj\Debug\ArreglosMatrices.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\obj\Debug\ArreglosMatrices.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\obj\Debug\ArreglosMatrices.exe
+C:\Users\User\FundamentosProgramacionM\ArreglosMatrices\obj\Debug\ArreglosMatrices.pdb

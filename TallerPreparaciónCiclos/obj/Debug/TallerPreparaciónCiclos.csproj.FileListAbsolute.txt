@@ -1,0 +1,7 @@
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\bin\Debug\TallerPreparaciónCiclos.exe.config
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\bin\Debug\TallerPreparaciónCiclos.exe
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\bin\Debug\TallerPreparaciónCiclos.pdb
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\obj\Debug\TallerPreparaciónCiclos.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\obj\Debug\TallerPreparaciónCiclos.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\obj\Debug\TallerPreparaciónCiclos.exe
+C:\Users\User\FundamentosProgramacionM\TallerPreparaciónCiclos\obj\Debug\TallerPreparaciónCiclos.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\bin\Debug\ParcialArreglos.exe.config
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\bin\Debug\ParcialArreglos.exe
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\bin\Debug\ParcialArreglos.pdb
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\obj\Debug\ParcialArreglos.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\obj\Debug\ParcialArreglos.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\obj\Debug\ParcialArreglos.exe
+C:\Users\User\FundamentosProgramacionM\ParcialArreglos\obj\Debug\ParcialArreglos.pdb

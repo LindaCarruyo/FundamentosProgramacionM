@@ -1,0 +1,7 @@
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\bin\Debug\ParcialCiclos.exe.config
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\bin\Debug\ParcialCiclos.exe
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\bin\Debug\ParcialCiclos.pdb
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\obj\Debug\ParcialCiclos.csproj.AssemblyReference.cache
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\obj\Debug\ParcialCiclos.csproj.CoreCompileInputs.cache
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\obj\Debug\ParcialCiclos.exe
+C:\Users\User\FundamentosProgramacionM\ParcialCiclos\obj\Debug\ParcialCiclos.pdb
